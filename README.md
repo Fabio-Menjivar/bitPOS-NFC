@@ -1,4 +1,4 @@
-# bitPOS-NFC: Instant Bitcoin POS with LNBits (Hackathon Prototype 🚀)
+# bitPOS-NFC: Instant Bitcoin POS with LNBits 🚀
 
 The **bitPOS-NFC** is a rapid prototype for a Point-of-Sale (POS) system built to accept instant Bitcoin payments via **RFID/NFC cards** and the **Lightning Network** using **LNBits**.
 
