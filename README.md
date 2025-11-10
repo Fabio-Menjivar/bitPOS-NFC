@@ -70,19 +70,12 @@ For this prototype, the success relies entirely on a pre-configured LNBits walle
 
 ---
 
-## 🗺️ Roadmap and Future Vision
+## 🗺️ Roadmap and Future Vision 🚀📈
 
 While this is a successful hackathon prototype, the **bitPOS-NFC** is envisioned as a polished, market-ready product with significant architectural upgrades:
 
 ### Future Development Focus:
 
-* **Professional UX:** Development of a dedicated website featuring the product and a powerful, responsive **User Interface (UI) and User Experience (UX)** for managing the device, viewing sales data, and handling payment configurations from a cellphone or computer.
+* **Professional UX:** Development of a dedicated website featuring the product and a powerful, responsive **User Interface (UI) and User Experience (UX)** for managing the device, viewing sales data, and handling payment configurations from a smartphone or computer.
 * **Hardware Refinement:** Creating a **polished enclosure and PCB** for production.
 * **New Features:** Adding **currency conversion** (Sats to USD) and **integrated receipt printing**.
-
----
-
-## 🚀 Bitcoin & Scalability
-
-* The system uses the **Lightning Network** for **instantaneous, low-cost final settlement**, which is critical for retail POS.
-* This reliance on Lightning makes the system **globally scalable** and capable of handling a **high volume of transactions (TPS)** worldwide, bypassing traditional banking and slow blockchain limitations.
