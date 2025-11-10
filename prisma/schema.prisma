@@ -1,0 +1,17 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        Int      @id @default(autoincrement())
+  walletId  String   @unique // ID de la wallet en LNbits
+  username  String   @unique
+  password  String   
+  createdAt DateTime @default(now())
+}
