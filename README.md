@@ -76,16 +76,13 @@ While this is a successful hackathon prototype, the **bitPOS-NFC** is envisioned
 
 ### Future Development Focus:
 
-* **Non-Custodial Account Management (Nostr):** Transitioning away from API keys by integrating **Nostr** for decentralized, non-custodial user account and device management, ensuring merchants retain full control over their funds.
-* **Professional UI/UX:** Development of a dedicated website featuring the product and a powerful, responsive **User Interface (UI) and User Experience (UX)** for managing the device, viewing sales data, and handling payment configurations from a cellphone or computer.
-* **Polished Hardware:** Development of a streamlined enclosure and professional PCB for production use.
-* **Feature Expansion:** Adding support for currency conversion display (e.g., Sats to USD) and integrated receipt printing.
+* **Professional UX:** Development of a dedicated website featuring the product and a powerful, responsive **User Interface (UI) and User Experience (UX)** for managing the device, viewing sales data, and handling payment configurations from a cellphone or computer.
+* **Hardware Refinement:** Creating a **polished enclosure and PCB** for production.
+* **New Features:** Adding **currency conversion** (Sats to USD) and **integrated receipt printing**.
 
 ---
 
-## 🚀 Bitcoin Integration and Scalability
+## 🚀 Bitcoin & Scalability
 
-This prototype was developed with key focus areas to demonstrate its long-term viability:
-
-* **Use of Bitcoin Features:** The project primarily utilizes the **Lightning Network** (a Bitcoin Layer 2 solution) to achieve **instantaneous, low-cost final settlement**, which is the single most critical feature required for successful retail POS adoption.
-* **Scalability and Global Market Potential:** By relying on the Lightning Network, the system is inherently **globally scalable**. It is not limited by local bank transfers or slow blockchain confirmation times, enabling easy deployment in any market worldwide and capable of handling a high volume of transactions per second (TPS).
+* The system uses the **Lightning Network** for **instantaneous, low-cost final settlement**, which is critical for retail POS.
+* This reliance on Lightning makes the system **globally scalable** and capable of handling a **high volume of transactions (TPS)** worldwide, bypassing traditional banking and slow blockchain limitations.
